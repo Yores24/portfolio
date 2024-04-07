@@ -27,17 +27,17 @@ improvement.Achieved 15% project efficiency and received a Letter of Recommendat
 ### AI/ML Salary Prediction
 Boosted salary prediction accuracy by 80% via Python
 ML techniques and hyperparameter tuning. Expert in data scraping, preprocessing, and Flask deployment, with
-Tableau visualization skills.[Go to Project].(https://github.com/Yores24/DataScience_Projects)
+Tableau visualization skills.[Go to Project](https://github.com/Yores24/DataScience_Projects)
 
 ### Sentiment Analysis
 Analyzed Amazon reviews using VADER and RoBERTa
 models, achieving 89% predictive accuracy. Expert in NLP, summarization, model evaluation, visualizing
-rating trends with Tableau.[Go to Project].(https://github.com/Yores24/Sentiment-Analysis)
+rating trends with Tableau.[Go to Project](https://github.com/Yores24/Sentiment-Analysis)
 
 ### GenAI Projects
 Developed a Discord bot using OpenAI for natural language
 responses, and integrate DALL·E for image generation, enhancing user engagement with dynamic chat and visual
-content.[Go to Project].(https://github.com/Yores24/GenAI)
+content.[Go to Project](https://github.com/Yores24/GenAI)
 
 ### Tableau-Visualizations
 Showcasing various visualizations created using Tableau. Feel free to explore the different dashboards and visualizations available here.
